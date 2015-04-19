@@ -5,9 +5,9 @@ https://www.udemy.com/complete-web-developer-course/
 
 I'm taking this course to brush up on fundamentals.
 
-Note:
+Note:<br/>
 Sections 1-4 have been skipped for time efficiency<br/>
-Lesson 1: HTML BASICS
-Lesson 2: CSS BASICS
-Lesson 3: JAVASCRIPT BASICS
-Lesson 4: JQUERY BASICS
+Lesson 1: HTML BASICS<br/>
+Lesson 2: CSS BASICS<br/>
+Lesson 3: JAVASCRIPT BASICS<br/>
+Lesson 4: JQUERY BASICS<br/>
